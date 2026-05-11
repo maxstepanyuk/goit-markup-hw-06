@@ -17,7 +17,6 @@
     visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-
 .backdrop.is-open {
   opacity: 1;
   visibility: visible;
@@ -204,13 +203,11 @@
   cursor: pointer;
 }
 
-/* cleun up */
 .user-privacy {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 12px;
 
-  /* line-height: 14px; */
   line-height: 1.16667;
   letter-spacing: 0.04em;
   color: #8e8f99;
